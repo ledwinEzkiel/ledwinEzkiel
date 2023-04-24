@@ -3,7 +3,7 @@
 ## Hi There :wave:
 </center>
 
-I am Ledwin Ezkiel Wotulo, I am a student in the Information Systems :computer:. Currently, I am learning the Python :python: programming language.
+I am [Ledwin Ezkiel Wotulo](https://github.com/ledwinEzkiel), I am a student in the Information Systems :computer:. Currently, I am learning the Python :python: programming language.
 
 ### My Stats
 <p align="center"><br/>
